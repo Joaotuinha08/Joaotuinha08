@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hellooo 👋
 
+Currently finishing my degree in Computer Engineering and Multimedia @ Lisbon School of Engineering
 <!--
 **Joaotuinha08/Joaotuinha08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
