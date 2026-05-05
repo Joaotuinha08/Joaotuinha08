@@ -1,4 +1,4 @@
-## Hellooo 👋
+## Hello 👋
 
 Currently finishing my degree in Computer Engineering and Multimedia @ Lisbon School of Engineering
 <!--
